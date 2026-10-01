@@ -5,6 +5,8 @@
   <p>
     <a href="https://www.linkedin.com/in/dante-santino-paolisso-a42a311a1/">LinkedIn</a>
     ·
+    <a href="https://dantesantinopaolisso.online">Portfolio</a>
+    ·
     <a href="https://otracopa.online">Otra Copa</a>
     ·
     <a href="https://paraguayconecta.online">Paraguay Conecta</a>
@@ -15,12 +17,12 @@
 
 ## Productos en producción
 
-| Producto | Qué resuelve | Mi rol | Tecnología |
+| Producto | Qué resuelve | Mi rol | Enlaces |
 | --- | --- | --- | --- |
-| [Otra Copa](https://otracopa.online) | Organización de torneos y partidos de fútbol amateur en web, iOS y Android. | Cofundador y desarrollador de producto | Flutter · Dart · Supabase · PostgreSQL |
-| [Paraguay Conecta](https://paraguayconecta.online) | Empleos, pasantías, becas, cursos, voluntariados e iniciativas para personas de todo Paraguay. | Cofundador y desarrollador de producto | Next.js · Supabase · Vercel |
-| [B-Clinical Córdoba](https://www.bclinicalcordoba.com/) | Presencia digital para especialistas, consultorios, cursos y contenidos profesionales. | Desarrollador web | Astro · Supabase |
-| [VISIONARY Paraguay](https://www.visionaryparaguay.online/) | Experiencia de comercio electrónico y operación digital para el negocio. | Desarrollador full stack | Next.js · React · TypeScript · Supabase |
+| Otra Copa | Organización de torneos y partidos de fútbol amateur en web, iOS y Android. | Cofundador y desarrollador de producto | [Producto](https://otracopa.online) · [Caso público](https://github.com/dantesantinopaolisso/otra-copa-showcase) |
+| Paraguay Conecta | Empleos, pasantías, becas, cursos, voluntariados e iniciativas para personas de todo Paraguay. | Cofundador y desarrollador de producto | [Producto](https://paraguayconecta.online) · [Caso público](https://github.com/dantesantinopaolisso/paraguay-conecta-showcase) |
+| B-Clinical Córdoba | Presencia digital para especialistas, consultorios, cursos y contenidos profesionales. | Desarrollador web | [Producto](https://www.bclinicalcordoba.com/) · [Caso público](https://github.com/dantesantinopaolisso/bclinical-cordoba-showcase) |
+| VISIONARY Paraguay | Experiencia de comercio electrónico y operación digital para el negocio. | Desarrollador full stack | [Producto](https://www.visionaryparaguay.online/) · [Caso público](https://github.com/dantesantinopaolisso/visionary-paraguay-showcase) |
 
 ## Cómo trabajo
 
