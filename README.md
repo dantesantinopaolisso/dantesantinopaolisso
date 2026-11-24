@@ -1,58 +1,29 @@
 <div align="center">
   <h1>Dante Santino Paolisso</h1>
-  <p><strong>Full Stack & Mobile Developer · Cofundador de Otra Copa y Paraguay Conecta</strong></p>
-  <p>Construyo productos digitales completos: experiencia, frontend, mobile, backend, datos y publicación.</p>
-  <p>
-    <a href="https://www.linkedin.com/in/dante-santino-paolisso-a42a311a1/">LinkedIn</a>
-    ·
-    <a href="https://dantesantinopaolisso.online">Portfolio</a>
-    ·
-    <a href="https://otracopa.online">Otra Copa</a>
-    ·
-    <a href="https://paraguayconecta.online">Paraguay Conecta</a>
-  </p>
+  <p><strong>Desarrollador Full Stack & Mobile · Flutter, React y Next.js</strong></p>
+  <p>Desarrollo apps y plataformas web para equipos que necesitan lanzar un producto o sumar una funcionalidad.</p>
+  <p><strong>Freelance remoto · Colaboraciones part-time · Asunción, Paraguay</strong></p>
+  <p><a href="https://www.linkedin.com/in/dante-santino-paolisso-a42a311a1/">LinkedIn</a> · <a href="mailto:santinopaolisso@gmail.com">Email</a></p>
 </div>
 
----
+## Proyectos destacados
 
-## Productos en producción
+| Proyecto | Qué construí | Dónde verlo |
+| --- | --- | --- |
+| **Otra Copa** | Cofundé y desarrollé una plataforma deportiva para gestionar torneos, equipos, partidos y reservas. La app está publicada en iOS y Android. | [Caso](https://github.com/dantesantinopaolisso/otra-copa-showcase) · [App Store](https://apps.apple.com/py/app/otra-copa/id6779391553) · [Google Play](https://play.google.com/store/apps/details?id=com.santinopaolisso.otracopa) |
+| **B-Clinical Córdoba** | Implementé un sitio responsive para encontrar especialistas, consultar por espacios profesionales y explorar capacitaciones. | [Caso](https://github.com/dantesantinopaolisso/bclinical-cordoba-showcase) · [Sitio](https://bclinicalcordoba.com/) |
+| **Paraguay Conecta** | Cofundé una plataforma de empleos, becas y otras oportunidades. Trabajé en la búsqueda y la publicación de convocatorias. | [Caso](https://github.com/dantesantinopaolisso/paraguay-conecta-showcase) |
+| **Fidelity App** | Desarrollo una app Flutter de fidelización. La demo Android muestra los recorridos de clientes, comercios y caja con datos ficticios. | [Demo y capturas](https://github.com/dantesantinopaolisso/fidelity-app-showcase) |
+| **VISIONARY Paraguay** | Desarrollé una experiencia de e-commerce con catálogo, carrito y gestión de inventario. | [Caso](https://github.com/dantesantinopaolisso/visionary-paraguay-showcase) |
 
-| Producto | Qué resuelve | Mi rol | Enlaces |
-| --- | --- | --- | --- |
-| Otra Copa | Organización de torneos y partidos de fútbol amateur en web, iOS y Android. | Cofundador y desarrollador de producto | [Producto](https://otracopa.online) · [Caso público](https://github.com/dantesantinopaolisso/otra-copa-showcase) |
-| Paraguay Conecta | Empleos, pasantías, becas, cursos, voluntariados e iniciativas para personas de todo Paraguay. | Cofundador y desarrollador de producto | [Producto](https://paraguayconecta.online) · [Caso público](https://github.com/dantesantinopaolisso/paraguay-conecta-showcase) |
-| B-Clinical Córdoba | Presencia digital para especialistas, consultorios, cursos y contenidos profesionales. | Desarrollador web | [Producto](https://www.bclinicalcordoba.com/) · [Caso público](https://github.com/dantesantinopaolisso/bclinical-cordoba-showcase) |
-| VISIONARY Paraguay | Experiencia de comercio electrónico y operación digital para el negocio. | Desarrollador full stack | [Producto](https://www.visionaryparaguay.online/) · [Caso público](https://github.com/dantesantinopaolisso/visionary-paraguay-showcase) |
+## En qué puedo ayudar
 
-## Cómo trabajo
+- **Apps Flutter:** implementar una pantalla o un flujo, conectar una API o preparar una versión para publicar.
+- **Web con React y Next.js:** crear un sitio, sumar un panel o resolver un recorrido de registro, reservas o administración.
+- **Backend e integraciones:** implementar autenticación, modelar datos y conectar servicios con Supabase, PostgreSQL o Firebase.
 
-- Convierto una idea en un producto usable, medible y publicado.
-- Puedo moverme entre frontend, mobile, backend, datos e integraciones.
-- Priorizo recorridos claros, decisiones simples y una base técnica sostenible.
-- Trabajo de forma freelance y también estoy abierto a equipos de producto.
+Prefiero acordar un primer alcance concreto, mostrar avances en una demo y documentar la entrega. Estudio Licenciatura en Informática en la Universidad Siglo 21.
 
-## Tecnologías
+**Tecnologías** · Flutter, Dart, React, Next.js, TypeScript, Supabase, PostgreSQL, Firebase, Astro y Vercel.
 
-<p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3FCF8E" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" />
-  <img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-## Ahora
-
-- Curso 4.º año de la Licenciatura en Informática en la Universidad Siglo 21.
-- Vivo en Asunción, Paraguay.
-- Busco oportunidades remotas en Latinoamérica, híbridas en Paraguay o presenciales en Asunción.
-- También busco inversión y alianzas comerciales para Otra Copa.
-
-## Contacto
-
-[santinopaolisso@gmail.com](mailto:santinopaolisso@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dante-santino-paolisso-a42a311a1/)
+> **English:** I build and maintain web and mobile products. Open to remote freelance projects and part-time collaborations across Latin America. [Get in touch](mailto:santinopaolisso@gmail.com).
