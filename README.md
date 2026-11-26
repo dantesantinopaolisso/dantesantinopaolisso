@@ -2,7 +2,7 @@
   <h1>Dante Santino Paolisso</h1>
   <p><strong>Desarrollador Full Stack & Mobile · Flutter, React y Next.js</strong></p>
   <p>Desarrollo apps y plataformas web para equipos que necesitan lanzar un producto o sumar una funcionalidad.</p>
-  <p><strong>Freelance remoto · Colaboraciones part-time · Asunción, Paraguay</strong></p>
+  <p><strong>Freelance remoto · Colaboraciones part-time · Argentina</strong></p>
   <p><a href="https://www.linkedin.com/in/dante-santino-paolisso-a42a311a1/">LinkedIn</a> · <a href="mailto:santinopaolisso@gmail.com">Email</a></p>
 </div>
 
